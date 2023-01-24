@@ -1,0 +1,19 @@
+{
+  "name": "fast-encrypt-decrypt-file",
+  "version": "1.0.0",
+  "description": "Fast encrypt and decrypt file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Can & FastUptime",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
