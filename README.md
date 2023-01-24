@@ -11,6 +11,9 @@
 ## NOT
 
 - Key'i Unutursanız Dosyalarınızı Asla Geri Getiremezsiniz.
+- Saldırı Amaçlı Kullanmayınız.
+- Key.txt Dosyasını Yedek Almayı Unutmayın Daha Hızlı Açmanızı Sağlar.
+- Auto Run Halini Yapıp Bilgisayarı Tamamen Kilitleye Bilirsiniz.
 
 ## Video
 
