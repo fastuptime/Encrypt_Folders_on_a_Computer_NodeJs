@@ -13,7 +13,8 @@
 - Key'i Unutursanız Dosyalarınızı Asla Geri Getiremezsiniz.
 
 ## Video
-https://www.youtube.com/watch?v=QXHDtHtQx9o
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/QXHDtHtQx9o" title="Bilgisayardaki Belirli Bir Klasörü Şifreleme - NodeJs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Tech Stack
 
